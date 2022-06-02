@@ -1,0 +1,7 @@
+{
+    "TOKEN": "BOT TOKEN HERE",
+    "GUILDID": "GUILD ID HERE",
+    "CLIENTID": "CLIENT ID HERE",
+    "PREFIX": "!",
+    "LOGCHANNEL": "LOG CHANNEL ID HERE"
+  }

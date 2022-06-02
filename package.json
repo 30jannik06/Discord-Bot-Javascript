@@ -1,0 +1,15 @@
+{
+  "name": "botter",
+  "version": "0.0.0",
+  "description": "botter",
+  "main": "index.js",
+  "author": {
+    "name": ""
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
