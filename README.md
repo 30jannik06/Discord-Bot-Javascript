@@ -14,14 +14,13 @@
 >```
 >npm install
 >```
->Rename "example.json" file to "config.json" and Add your Informations
+>Add your Informations to Config.json
 >``` json
 >{
->    "TOKEN": "BOT TOKEN HERE",
->    "GUILDID": "GUILD ID HERE",
->    "CLIENTID": "CLIENT ID HERE",
->    "PREFIX": "!",
->    "LOGCHANNEL": "LOG CHANNEL ID HERE"
+>    "token": "botToken_HeRE",
+>    "guildId": "guildId_HeRE",
+>    "clientId": "clientId_HeRE",
+>    "prefix": "botPrefix_HeRE"
 >}
 >```
 >Run Bot in Command Line
@@ -33,9 +32,10 @@
 >npm start
 >```
 ># Functions
->- [ ] Command Handler
->- [ ] Slash Commands
->- [ ] Basic Logging
+>- [X] Message Handler
+>- [X] Slash-Command Handler
+>- [X] Slash Commands
+>- [X] Event Handler
 >
 >![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
 >![Discord](https://img.shields.io/badge/DISCORDJS-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
